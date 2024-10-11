@@ -1,3 +1,6 @@
+#### NEEDS TO BE CHANGED ####
+####  UPLOAD NEW SCRIPT  ####
+
 # LCMicrosim
 Hi, welcome to the model I built for my master’s thesis. Before going into the model itself I would recommend you to read my manuscript to get a feeling of what is going on in general, the different sections, and what is the ultimate goal of this analysis. I very much hope that everything will be clear enough and in case it is not, and you want to know more about it, feel free to contact me for information. Enjoy it!
 
